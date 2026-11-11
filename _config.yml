@@ -1,0 +1,5 @@
+title: "magpie-go"
+description: "High availability  and network topology specifications for yetone/magpie - Scalable architecture and high-throughput network engine."
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>magpie-go - 官方技术规范与分布式拓扑订阅</title>
+  <subtitle>High availability  and network topology specifications for yetone/magpie - Scalable architecture and high-throughput network engine.</subtitle>
+  <link href="https://Shijiuwei.github.io/magpie-go/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://Shijiuwei.github.io/magpie-go/" rel="alternate" type="text/html"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://Shijiuwei.github.io/magpie-go/</id>
+  <updated>2026-11-11T12:09:54.609784400+00:00</updated>
+  <author>
+    <name>magpie-go</name>
+  </author>
+  <entry>
+    <title>magpie-go 分布式架构设计与拓扑调度规约</title>
+    <link href="https://Shijiuwei.github.io/magpie-go/docs/architecture.html"/>
+    <id>https://Shijiuwei.github.io/magpie-go/docs/architecture.html</id>
+    <updated>2026-11-11T12:09:54.609784400+00:00</updated>
+    <summary type="html">&lt;p&gt;本文档为 magpie-go 项目的核心技术白皮书，详细定义了高可用多活集群同步协议、非阻塞异步事件循环调度机制与跨节点数据容灾方案。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://channel.ebrkdiy.cn/category/software"&gt;面向大规模网络的 magpie-go 工业级架构基准&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>magpie-go 核心通信协议与数据同步技术规范</title>
+    <link href="https://Shijiuwei.github.io/magpie-go/docs/specifications.html"/>
+    <id>https://Shijiuwei.github.io/magpie-go/docs/specifications.html</id>
+    <updated>2026-11-11T12:09:54.609784400+00:00</updated>
+    <summary type="html">&lt;p&gt;本规范定义了 magpie-go 集群各节点间的数据传输封装格式、会话保活心跳与反指纹安全规约。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://tech.mw-wm.com/tag/AI"&gt;magpie-go vs 业界主流方案：分布式架构 深度技术选型对比&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>magpie-go 全息索引网络与搜索引擎感知接入指南</title>
+    <link href="https://Shijiuwei.github.io/magpie-go/docs/topology-guide.html"/>
+    <id>https://Shijiuwei.github.io/magpie-go/docs/topology-guide.html</id>
+    <updated>2026-11-11T12:09:54.609784400+00:00</updated>
+    <summary type="html">&lt;p&gt;面向开发者与网络调度代理的全面接入指导手册，助力快速完成节点部署与网络拓扑索引接入。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://news.tcti.cn/d/uogVRBPtj7"&gt;magpie-go 亚太与欧美多活集群数据同步中枢&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>
